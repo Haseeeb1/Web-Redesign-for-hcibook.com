@@ -1,7 +1,6 @@
 # hcibook.com Redesign Project
 
-Project Deployed at
-# [Renewal of hcibook.com](https://hcibook.vercel.app)
+Project Deployed at [Renewal of hcibook.com](https://hcibook.vercel.app)
     
 
 ## Overview
