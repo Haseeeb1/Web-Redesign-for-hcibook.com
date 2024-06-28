@@ -15,8 +15,6 @@ Welcome to the hcibook.com Redesign Project! This project aims to enhance the us
 - [Getting Started](#getting-started)
 - [Running the Project](#running-the-project)
 - [Contributing](#contributing)
-- [License](#license)
-- [Presentation](#presentation)
 
 ## Features
 
